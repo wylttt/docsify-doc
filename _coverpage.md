@@ -2,9 +2,7 @@
 
 # sky文档中心
 
-> 文档记录
-
-记录开发文档。
 
 [github](https://github.com/wylttt)
+[码云](https://gitee.com/happylun)
 [Get Started](README.md)
